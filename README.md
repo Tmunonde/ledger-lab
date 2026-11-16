@@ -1,31 +1,28 @@
 # Ledger Lab
 
-A free, offline-ready study app for Grade 9 EMS Accounting (South African CAPS curriculum).
+Free CAPS practice for South African learners: Grade 8 and Grade 9 Accounting (EMS) and twelve Grade 12 subjects.
+
+Live site: https://tmunonde.github.io/ledger-lab/
 
 ## What's inside
 
-- **48 multiple-choice questions** across seven topics: source documents, cash journals, accounting equation, debtors, creditors, General Ledger and trial balance, mark-up and profit
-- **Accounting equation trainer** — read a transaction and choose what happens to Assets, Owner's equity and Liabilities
-- **Which journal?** drill — tap the right journal out of the six (CRJ, CPJ, DJ, DAJ, CJ, CAJ)
-- **Mark-up drill** — cost price, selling price and mark-up percentage, randomly generated
-- **Corrections flashcards** — every wrong answer becomes a card you work through; mark it "got it" to remove it
-- **Key terms deck** — 28 CAPS accounting vocabulary cards
-- **DBE past paper links** — direct links to the Department of Basic Education GEC tests
+- **Grade 12:** Accounting, Mathematics, Mathematical Literacy, Physical Sciences, Life Sciences, Business Studies, Economics, Geography, History, English, Afrikaans and Life Orientation
+- **Grade 9:** Accounting (EMS financial literacy): all six journals, debtors, creditors, ledgers, mark-up
+- **Grade 8:** Accounting (EMS financial literacy): accounting concepts, source documents, the accounting equation, CRJ and CPJ of a service business
+- **591 multiple-choice questions**, grouped by topic and by exam paper, each with an explanation
+- **Drills** with fresh numbers every time: accounting equation, journals, mark-up and profit sums (Grades 8 and 9), financial indicators (Accounting), quick calculations (Mathematics), money and scale sums (Mathematical Literacy), formula practice (Physical Sciences) and mapwork calculations (Geography)
+- **Corrections flashcards:** every wrong answer becomes a card in that subject's deck, and learners can add mistakes from their own tests
+- **Key terms deck** for every subject
+- **Past papers:** links to the Department of Basic Education's papers and study guides
 
-## How to use it
+## How it works
 
-Open `index.html` in any browser — no install, no server needed. Progress is saved in `localStorage` so it persists between visits on the same device.
-
-## Hosting on GitHub Pages
-
-1. Fork or clone this repo
-2. Go to **Settings → Pages** and set Source to `main` branch, root folder
-3. The app will be live at `https://<your-username>.github.io/ledger-lab/`
+The whole app is the single file `index.html`. Open it in any browser, or host it on GitHub Pages. Progress is saved in the browser (`localStorage`), separately for each subject, on that device only.
 
 ## Content
 
-Questions are original, written to match the style of the DBE GEC Grade 9 EMS Paper 1. They are not copied from any past paper. The app links to the real DBE papers so students can write them under test conditions.
+The questions were written for this app. They follow the CAPS topics and the style of the DBE papers and are not copied from them. They have not been reviewed by a teacher, so please report any errors.
 
 ## Licence
 
-MIT — free to use, adapt and share.
+MIT
